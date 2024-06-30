@@ -241,7 +241,7 @@ button {
         }
     }
 
-    ;
+    
 
     .container {
         max-width: 1180px;
@@ -297,7 +297,7 @@ button {
     }
     footer {
         button{
-            width: 200px;
+        width: 200px;
         padding: 20px 0;
         }
     }
