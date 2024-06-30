@@ -224,7 +224,16 @@ button {
         text-align: right;
         padding: 10px 20px;
     }
-
+    header { text-align: initial }
+    #menu { float: right }
+    #menu li { 
+        display: inline-block;
+        margin: 0 0 0 4vw;
+    }
+    #title { 
+        width: initial;
+        left: 7vw
+    }
     footer {
         h5 {
             text-align: left;
